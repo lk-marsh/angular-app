@@ -1,3 +1,18 @@
+# Starting the App
+On terminal: 
+
+cd my-app
+ng serve
+
+On another terminal window: 
+cd py-flask/venv/Scripts
+activate  OR  ./activate
+cd ../..
+db.py
+
+Open http://localhost:4200 on browser, able to perform CRUD on database through Angular frontend 
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18.
