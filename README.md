@@ -1,16 +1,25 @@
 # Starting the App
 On terminal: 
 
+
 cd my-app
+
 ng serve
 
+
 On another terminal window: 
+
 cd py-flask/venv/Scripts
+
 activate  OR  ./activate
+
 cd ../..
+
 db.py
 
+
 Open http://localhost:4200 on browser, able to perform CRUD on database through Angular frontend 
+
 
 
 # MyApp
